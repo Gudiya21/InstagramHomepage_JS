@@ -1,0 +1,140 @@
+#container{
+    height: 300px;
+    width: 250px;
+    border: 1px solid black;
+    position: relative;
+    left: 670px;
+    bottom: 480px;
+}
+#image{
+    height: 530px;
+    width: 340px;
+    position: relative;
+    left: 390px;
+    bottom: 30px;
+}
+#instaImage{
+    height: 50px;
+    width: 150px;
+}
+#user{
+    width: 220px;
+}
+#password{
+    width: 220px;
+    height: 20px;
+    margin-top: 8px;
+}
+#login{
+    width: 270px;
+    height: 320px;
+    border: 1px solid black;
+       
+}
+.container{
+    position: relative;
+    left: 715px;
+    bottom: 490px;
+}
+#email{
+    width: 220px;
+    height: 20px;
+}
+.BTN{
+    position: relative;
+    top: 15px;
+    width: 220px;
+    color: white;
+    background-color: #0095f6;
+    border: 1px solid #0095f6;
+}
+#or{
+    position: relative;
+    top: 15px;
+}
+#icon{
+    position: relative;
+    top: 20px;
+}
+#forget{
+    position: relative;
+    top: 39px;
+}
+#change{
+    height: 50px;
+    width: 270px;
+    border: 1px solid black;
+    position: relative;
+    top: 10px;
+}
+.loginOrSignup{
+    position: relative;
+    bottom: 515px;
+    left: 815px;
+    background-color: white;
+    border: 1px solid white;
+    color: blue;
+}
+#face{
+    width: 230px;
+    background-color: #0095f6;
+    border: 1px solid #0095f6;
+    color: white;
+    height: 25px;
+}
+#siguser,#sigpass,#sigmobile,#signame{
+    width: 220px;
+    height: 20px;
+    position: relative;
+    top: 10px;
+}
+#Signup{
+    width: 270px;
+    height: 480px;
+    border: 1px solid black;
+    position: relative;
+    bottom: 45px;
+}
+.button{
+    position: relative;
+    top: 5px;
+    width: 230px;
+    background-color: #0095f6;
+    border: 1px solid #0095f6;
+    color: white;
+    height: 25px;
+}
+#change2{
+    height: 50px;
+    width: 270px;
+    border: 1px solid black;
+    position: relative;
+    bottom: 40px;
+}
+#gta{
+    position: relative;
+    bottom: 515px;
+    left: 720px;
+}
+#amazon{
+    height: 40px;
+    width: 90px;
+    position: relative;
+    bottom: 515px;
+    left: 710px;
+}
+#googleplay{
+    height: 40px;
+    width: 90px;
+    position: relative;
+    bottom: 515px;
+    left: 730px;
+}
+#seconddiv{
+    height: 70px;
+    width: 950px;
+    position: relative;
+    left: 560px;
+    bottom: 470px;
+
+}
